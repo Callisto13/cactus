@@ -5,8 +5,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/mo-work/go-technical-test-for-claudia/runner"
-	"github.com/mo-work/go-technical-test-for-claudia/runner/runnerfakes"
+	"github.com/callisto13/cactus/runner"
+	"github.com/callisto13/cactus/runner/runnerfakes"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/onsi/gomega/gbytes"

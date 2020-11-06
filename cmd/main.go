@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mo-work/go-technical-test-for-claudia/editor"
-	"github.com/mo-work/go-technical-test-for-claudia/runner"
+	"github.com/callisto13/cactus/editor"
+	"github.com/callisto13/cactus/runner"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package editor_test
 
 import (
-	"github.com/mo-work/go-technical-test-for-claudia/editor"
+	"github.com/callisto13/cactus/editor"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

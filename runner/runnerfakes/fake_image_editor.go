@@ -4,7 +4,7 @@ package runnerfakes
 import (
 	"sync"
 
-	"github.com/mo-work/go-technical-test-for-claudia/runner"
+	"github.com/callisto13/cactus/runner"
 )
 
 type FakeImageEditor struct {

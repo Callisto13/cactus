@@ -15,7 +15,7 @@ func TestIntegration(t *testing.T) {
 
 	BeforeSuite(func() {
 		var err error
-		cliBin, err = gexec.Build("github.com/mo-work/go-technical-test-for-claudia/cmd", "-mod=vendor")
+		cliBin, err = gexec.Build("github.com/callisto13/cactus/cmd", "-mod=vendor")
 		Expect(err).NotTo(HaveOccurred())
 	})
 
